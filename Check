@@ -1,12 +1,1 @@
-{
-  "1234": {
-    "password": "pass123",
-    "expiry": "2025-06-10"
-  },
-  "5678": {
-    "password": "secret456",
-    "expiry": "2025-07-01"
-  }
-}
-
-newpassword123
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHVkZW50X2NvZGUiOjgzODc5NzgyNSwidXVpZCI6ImoxMm8zNGs1NmU3OHI5MHgiLCJ2YWxpZF91bnRpbCI6IjIwMjUtMDctMDEgMDI6NTc6MDYifQ.svGm3tp4EShsqNEdHU54DB5hYhNBmjs2-fXEBbKhfo4
